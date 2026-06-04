@@ -11,7 +11,15 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
+```
+x = ('a', 'b', 'n', 5, 8, 3)
+
+print('n' in x)
+ print(8 in x)
+```
 
 ## Output
+<img width="1203" height="270" alt="image" src="https://github.com/user-attachments/assets/3b777bcc-cb4a-4821-b1d7-a3fcca48a406" />
 
 ## Result
+Thus To write a Python program that checks if the element 'n' and the element 8 exist within a given tuple. Hence the code has been executed successfully.
